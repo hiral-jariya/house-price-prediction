@@ -61,6 +61,6 @@ and understand how different property features
 influence house values.
 
 ## Author
-Your Name
+Jariya Hiral
 
 B.E. Computer Engineering

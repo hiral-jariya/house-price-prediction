@@ -1,3 +1,6 @@
+#**live Demo**
+https://house-price-prediction-oyf3ebvsbpdngn5fhq9fez.streamlit.app/
+
 # House Price Prediction & Real Estate Analytics
 
 A Streamlit machine-learning application that predicts house prices using Linear Regression and provides dataset exploration, charts, model evaluation, and session-based prediction history.
